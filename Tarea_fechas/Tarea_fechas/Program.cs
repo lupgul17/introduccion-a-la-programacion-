@@ -24,40 +24,33 @@ Console.WriteLine(diaActual +"-"+mesActual +"-"+annioActual);
 //Algoritmo condicional 
 if(annioActual-annioNacimiento > 18)
 {
-    verificador = true;
-    Console.WriteLine(1);
-    
+    verificador = true;    
 }
 else
 {
     if(annioActual - annioNacimiento <= 16)
     {
-        verificador=false;
-        Console.WriteLine(2);
+        verificador=false;    
     }
     else if(annioActual - annioNacimiento >= 17)
     {
         if(mesActual > mesNacimiento)
         {
             verificador=true;
-            Console.WriteLine(3);
         }
         if(mesActual < mesNacimiento)
         {
             verificador = false;
-            Console.WriteLine(4);
         }
         else if(mesActual== mesNacimiento) 
         {
             if(diaActual > diaNacimiento) 
             {
                 verificador = false;
-                Console.WriteLine(5);
             }
             else if(diaActual<=diaNacimiento)
             {
                 verificador =true;
-                Console.WriteLine(6);
             }
         }
     }
