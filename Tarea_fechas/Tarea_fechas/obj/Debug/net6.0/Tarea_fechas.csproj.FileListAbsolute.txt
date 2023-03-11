@@ -1,0 +1,15 @@
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Tarea_fechas\Tarea_fechas\bin\Debug\net6.0\Tarea_fechas.exe
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Tarea_fechas\Tarea_fechas\bin\Debug\net6.0\Tarea_fechas.deps.json
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Tarea_fechas\Tarea_fechas\bin\Debug\net6.0\Tarea_fechas.runtimeconfig.json
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Tarea_fechas\Tarea_fechas\bin\Debug\net6.0\Tarea_fechas.dll
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Tarea_fechas\Tarea_fechas\bin\Debug\net6.0\Tarea_fechas.pdb
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Tarea_fechas\Tarea_fechas\obj\Debug\net6.0\Tarea_fechas.csproj.AssemblyReference.cache
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Tarea_fechas\Tarea_fechas\obj\Debug\net6.0\Tarea_fechas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Tarea_fechas\Tarea_fechas\obj\Debug\net6.0\Tarea_fechas.AssemblyInfoInputs.cache
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Tarea_fechas\Tarea_fechas\obj\Debug\net6.0\Tarea_fechas.AssemblyInfo.cs
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Tarea_fechas\Tarea_fechas\obj\Debug\net6.0\Tarea_fechas.csproj.CoreCompileInputs.cache
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Tarea_fechas\Tarea_fechas\obj\Debug\net6.0\Tarea_fechas.dll
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Tarea_fechas\Tarea_fechas\obj\Debug\net6.0\refint\Tarea_fechas.dll
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Tarea_fechas\Tarea_fechas\obj\Debug\net6.0\Tarea_fechas.pdb
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Tarea_fechas\Tarea_fechas\obj\Debug\net6.0\Tarea_fechas.genruntimeconfig.cache
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Tarea_fechas\Tarea_fechas\obj\Debug\net6.0\ref\Tarea_fechas.dll
