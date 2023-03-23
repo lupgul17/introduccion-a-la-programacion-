@@ -23,7 +23,6 @@ internal class Program
         diaActual = DateTime.Now.Day;
         mesActual = DateTime.Now.Month;
         annioActual = DateTime.Now.Year;
-        Console.WriteLine(diaActual + "-" + mesActual + "-" + annioActual);
         //Algoritmo condicional 
         if (annioActual - annioNacimiento > 18)
         {
@@ -45,7 +44,7 @@ internal class Program
                 {
                     verificador = false;
                 }
-                else if (mesActual == mesNacimiento)
+                if (mesActual == mesNacimiento)
                 {
                     if (diaActual > diaNacimiento)
                     {
