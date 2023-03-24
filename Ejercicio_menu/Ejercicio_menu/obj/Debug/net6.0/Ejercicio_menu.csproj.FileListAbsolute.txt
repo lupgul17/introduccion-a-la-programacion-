@@ -1,0 +1,15 @@
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Ejercicio_menu\Ejercicio_menu\bin\Debug\net6.0\Ejercicio_menu.exe
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Ejercicio_menu\Ejercicio_menu\bin\Debug\net6.0\Ejercicio_menu.deps.json
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Ejercicio_menu\Ejercicio_menu\bin\Debug\net6.0\Ejercicio_menu.runtimeconfig.json
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Ejercicio_menu\Ejercicio_menu\bin\Debug\net6.0\Ejercicio_menu.dll
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Ejercicio_menu\Ejercicio_menu\bin\Debug\net6.0\Ejercicio_menu.pdb
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Ejercicio_menu\Ejercicio_menu\obj\Debug\net6.0\Ejercicio_menu.csproj.AssemblyReference.cache
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Ejercicio_menu\Ejercicio_menu\obj\Debug\net6.0\Ejercicio_menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Ejercicio_menu\Ejercicio_menu\obj\Debug\net6.0\Ejercicio_menu.AssemblyInfoInputs.cache
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Ejercicio_menu\Ejercicio_menu\obj\Debug\net6.0\Ejercicio_menu.AssemblyInfo.cs
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Ejercicio_menu\Ejercicio_menu\obj\Debug\net6.0\Ejercicio_menu.csproj.CoreCompileInputs.cache
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Ejercicio_menu\Ejercicio_menu\obj\Debug\net6.0\Ejercicio_menu.dll
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Ejercicio_menu\Ejercicio_menu\obj\Debug\net6.0\refint\Ejercicio_menu.dll
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Ejercicio_menu\Ejercicio_menu\obj\Debug\net6.0\Ejercicio_menu.pdb
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Ejercicio_menu\Ejercicio_menu\obj\Debug\net6.0\Ejercicio_menu.genruntimeconfig.cache
+C:\Users\luisg\source\repos\lupgul17\introduccion-a-la-programacion-\Ejercicio_menu\Ejercicio_menu\obj\Debug\net6.0\ref\Ejercicio_menu.dll
