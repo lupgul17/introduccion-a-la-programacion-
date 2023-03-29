@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisg\\source\\repos\\lupgul17\\introduccion-a-la-programacion-\\Ejercicio_menu\\Ejercicio_menu\\Ejercicio_menu.csproj": {}
+    "C:\\Users\\luisg\\Source\\Repos\\lupgul17\\introduccion-a-la-programacion-\\Ejercicio_menu\\Ejercicio_menu\\Ejercicio_menu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisg\\source\\repos\\lupgul17\\introduccion-a-la-programacion-\\Ejercicio_menu\\Ejercicio_menu\\Ejercicio_menu.csproj": {
+    "C:\\Users\\luisg\\Source\\Repos\\lupgul17\\introduccion-a-la-programacion-\\Ejercicio_menu\\Ejercicio_menu\\Ejercicio_menu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisg\\source\\repos\\lupgul17\\introduccion-a-la-programacion-\\Ejercicio_menu\\Ejercicio_menu\\Ejercicio_menu.csproj",
+        "projectUniqueName": "C:\\Users\\luisg\\Source\\Repos\\lupgul17\\introduccion-a-la-programacion-\\Ejercicio_menu\\Ejercicio_menu\\Ejercicio_menu.csproj",
         "projectName": "Ejercicio_menu",
-        "projectPath": "C:\\Users\\luisg\\source\\repos\\lupgul17\\introduccion-a-la-programacion-\\Ejercicio_menu\\Ejercicio_menu\\Ejercicio_menu.csproj",
+        "projectPath": "C:\\Users\\luisg\\Source\\Repos\\lupgul17\\introduccion-a-la-programacion-\\Ejercicio_menu\\Ejercicio_menu\\Ejercicio_menu.csproj",
         "packagesPath": "C:\\Users\\luisg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisg\\source\\repos\\lupgul17\\introduccion-a-la-programacion-\\Ejercicio_menu\\Ejercicio_menu\\obj\\",
+        "outputPath": "C:\\Users\\luisg\\Source\\Repos\\lupgul17\\introduccion-a-la-programacion-\\Ejercicio_menu\\Ejercicio_menu\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\luisg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
