@@ -19,7 +19,7 @@ namespace Program
         }
         static List<pelicula> Peliculas = new List<pelicula>();
 
-        static string ubicacion = @"C:\Users\luisg\OneDrive\Escritorio\peliculas.txt";
+        static string ubicacion = @"..\peliculas.txt";
 
         public static void cargarCartelera()
         {
