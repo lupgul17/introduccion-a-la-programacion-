@@ -2,9 +2,9 @@
 2,Harry Potter,todos,152,8:00,11:00,2:00,6:00,9:00
 3,Spider-Man 1,todos,147,9:00,11:45,2:30,5:15,8:00
 4,Sherk,todos,143,9:00,12:00,3:00,6:00,9:00
-5,Piratas del caribe,todos,143,9:00,12:00,3:00,6:00,9:00
-6,Piratas del caribe,todos,143,9:00,12:00,3:00,6:00,9:00
-7,Piratas del caribe,todos,143,9:00,12:00,3:00,6:00,9:00
-8,Piratas del caribe,todos,143,9:00,12:00,3:00,6:00,9:00
-9,Piratas del caribe,todos,143,9:00,12:00,3:00,6:00,9:00
-10,Piratas del caribe,todos,143,9:00,12:00,3:00,6:00,9:00
+5,Black Panter,PG13,143,9:00,12:00,3:00,6:00,9:00
+6,The social network,PG13,143,9:00,12:00,3:00,6:00,9:00
+7,LaLaland,PG13,143,9:00,12:00,3:00,6:00,9:00
+8,Atame,PG17,97,9:00,12:00,3:00,6:00,9:00
+9,Blonde,PG17,166,9:00,12:00,3:00,6:00,9:00
+10,La vida de adela,X,180,11:30,3:00:00,6:30,10:00,12:00
